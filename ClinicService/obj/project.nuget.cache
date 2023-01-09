@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxLjp5EnIVsDGOw/vJH72pB6AvCjkXiDprTQvTFnos4CxEn1OoqvyCPr5zQZo13hFd+SXqekEkmzfj7ZHqCr2Q==",
+  "success": true,
+  "projectFilePath": "/Users/dmitrybuben/GeekBrains/Архитектура ПО/Сем10/lesson10/ClinicService/ClinicService/ClinicService.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmitrybuben/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.117/stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/dmitrybuben/.nuget/packages/system.data.sqlite.core/1.0.117/system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
